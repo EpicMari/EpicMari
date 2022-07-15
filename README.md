@@ -1,4 +1,7 @@
-![visitor badge](https://komarev.com/ghpvc/?username=EpicMari&label=Visits&color=green)
+<img src="https://github.com/EpicMari/EpicMari/blob/main/martin_gif.gif" width='100%'/>
+
+# Contact
+
 [![email badge](https://img.shields.io/badge/reinicke.mari@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:reinicke.mari@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/@EpicMari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EpicMari)
 
