@@ -20,3 +20,8 @@
 ![React_Router](https://img.shields.io/badge/React_Router-323330?style=for-the-badge&logo=ReactRouter&logoColor=CA4245)
 ![Contentful](https://img.shields.io/badge/Contentful-323330?style=for-the-badge&logo=Contentful&logoColor=2478CC)
 ![PayPal](https://img.shields.io/badge/PayPal-323330?style=for-the-badge&logo=PayPal&logoColor=00457C)
+
+## What next?
+
+![Redux_Toolkit](https://img.shields.io/badge/Redux_Toolkit-323330?style=for-the-badge&logo=Redux&logoColor=764ABC)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
